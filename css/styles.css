@@ -8,7 +8,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
 
-
 p {
   color: #8f8f8f;
 }
@@ -27,22 +26,19 @@ p {
 }
 
 /* containers */
-
 .container-fluid {
   padding: 7% 15%;
 }
 
 /* sections */
-.colored-section{
+.colored-section {
   background-color: #ff4c68;
   color: #fff;
 }
 
-.white-section{
+.white-section {
   background-color: #fff;
 }
-
-
 
 /* Navagation bar */
 .navbar {
@@ -70,15 +66,11 @@ p {
   margin: 5% 3% 5% 0;
 }
 
-
-
 /* Title Section */
-
-#title .container-fluid{
+#title .container-fluid {
   padding: 3% 15% 7%;
   text-align: left;
 }
-
 
 /* Title Image */
 .title-image {
@@ -88,14 +80,13 @@ p {
   transform: rotate(25deg);
 }
 
-
 /* features section */
 #features {
   position: relative;
 }
 
 .feature-title {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 .feature-box {
@@ -127,7 +118,6 @@ p {
   margin: 20px;
 }
 
-
 /* Press section */
 #press {
   background-color: #ef8172;
@@ -153,8 +143,8 @@ p {
   padding: 3% 2%;
 }
 
-#cta .download-button{
-   margin: 1%;
+#cta .download-button {
+  margin: 1%;
 }
 
 @media (max-width: 991px) {
@@ -164,10 +154,9 @@ p {
   }
 
   #title .container-fluid {
-      text-align: center;
+    text-align: center;
   }
 }
-
 
 /* footer section */
 .icon-button {
