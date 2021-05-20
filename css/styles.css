@@ -70,6 +70,8 @@ p {
   margin: 5% 3% 5% 0;
 }
 
+
+
 /* Title Section */
 
 #title .container-fluid{
@@ -149,6 +151,10 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+#cta .download-button{
+  margin: 3% 2% 0;
 }
 
 @media (max-width: 991px) {
